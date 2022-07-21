@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for [Advanced Unibyte GmbH](https://github.com/AdvUni)
 
-- 🌱 I’m currently learning **JS, Angular as well as some C**
+- 🌱 I’m currently learning **JS, Dart and even more Dart**
 
 - 💬 Ask me about **.Net**
 
