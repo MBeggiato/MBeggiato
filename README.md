@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcel</h1>
 <h3 align="center">A passionate developer and system engineer from germany</h3>
 
-- 🔭 I’m currently working for [Advanced Unibyte GmbH](https://github.com/AdvUni)
+- 🔭 I’m currently working for [Advanced Unibyte GmbH](https://github.com/AdvUni) and [Dream Bit](https://github.com/dream-bit-de)
 
 - 🌱 I’m currently learning **JS, Dart and even more Dart**
 
