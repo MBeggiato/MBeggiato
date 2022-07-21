@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS, Dart and even more Dart**
 
-- 💬 Ask me about **.Net**
+- 💬 Ask me about **.Net** **Dart**
 
 - 📫 How to reach me **marcel@beggiato.de**
 
