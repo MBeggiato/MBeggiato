@@ -8,7 +8,6 @@
 
 - 💬 Ask me about **.Net** or **Dart**
 
-- 📫 How to reach me **marcel@beggiato.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
