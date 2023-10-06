@@ -1,4 +1,3 @@
-<a rel="me" href="https://github.com/MBeggiato/MBeggiato">Mastodon</a> 
 <h1 align="center">Hi 👋, I'm <a rel="me" href="https://code-in-space.dev/@Marcel">Marcel</a></h1>
 <h3 align="center">A passionate developer and system engineer from germany</h3>
 
