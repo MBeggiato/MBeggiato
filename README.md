@@ -10,6 +10,9 @@
 
 <h3 align="left">Support me:</h3>
 <a href="https://www.buymeacoffee.com/mbeggiato" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 37px !important;width: 170px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<br>
+<h3 align="left">Check this out:</h3>
+<img src="https://holopin.me/mbeggiato" alt="An image of @mbeggiato's Holopin badges, which is a link to view their full Holopin profile"/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"></img>
