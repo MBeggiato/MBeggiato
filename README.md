@@ -5,7 +5,7 @@
 
 - 💬 Ask me **anything**!
 
-- Find me on <a href="https://codeberg.org/MBeggiato">Codeberg</a>
+- Find me on <a href="https://codeberg.org/MBeggiato">Codeberg.org</a>
 
 
 <h3 align="left">Support me:</h3>
