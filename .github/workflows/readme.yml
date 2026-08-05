@@ -1,0 +1,49 @@
+name: Refresh README cards
+
+on:
+  schedule:
+    # Every six hours. Contribution data changes slowly, so this is frequent
+    # enough to stay current without churning the commit history.
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "brand/glyphs.json"
+      - ".github/workflows/readme.yml"
+
+# Only the built-in token is needed: every field the build reads is public.
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-cards
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Generate cards and README blocks
+        run: bun run build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit only when something actually changed
+        run: |
+          git add assets README.md
+          if git diff --cached --quiet; then
+            echo "Keine Aenderungen, kein Commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh profile cards"
+          git push
