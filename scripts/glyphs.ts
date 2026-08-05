@@ -3,7 +3,8 @@
  *
  * GitHub renders README images in an isolated <img> context where @font-face and
  * external stylesheets are blocked, so no card may depend on a font being
- * available. Outlines are extracted at authoring time by brand/build-glyphs.py.
+ * available. Outlines are extracted at authoring time in the private mbx-brand
+ * repo (`scripts/build-glyphs.py`) and vendored here as glyphs.json.
  */
 
 interface Glyph {
@@ -46,7 +47,7 @@ function glyphsFor(text: string, weight: Weight): Glyph[] {
     const glyph = table[char];
     if (!glyph) {
       throw new Error(
-        `Zeichen "${char}" fehlt in glyphs.json. Charset in brand/build-glyphs.py erweitern und neu erzeugen.`,
+        `Zeichen "${char}" fehlt in glyphs.json. Charset in mbx-brand erweitern, glyphs neu erzeugen und hierher kopieren.`,
       );
     }
     out.push(glyph);

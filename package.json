@@ -5,10 +5,7 @@
   "description": "Generates the animated SVG cards for the MBeggiato GitHub profile README",
   "scripts": {
     "build": "bun run scripts/build.ts",
-    "preview": "bun run scripts/preview.ts",
-    "brand:glyphs": "python3 brand/build-glyphs.py",
-    "brand:lockup": "python3 brand/build-lockup.py",
-    "brand:icons": "bun run brand/build-icons.ts"
+    "preview": "bun run scripts/preview.ts"
   },
   "devDependencies": {
     "@types/bun": "latest",

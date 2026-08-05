@@ -1,21 +1,21 @@
 <!-- GENERATED:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=9cb9d7d8">
-  <img alt="Marcel Beggiato — full stack developer, self-hoster, Germany" src="assets/header-light.svg?v=9cb9d7d8">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=0979bfe5">
+  <img alt="Marcel Beggiato — full stack developer, self-hoster, Germany" src="assets/header-light.svg?v=0979bfe5">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=9cb9d7d8">
-  <img alt="At a glance: 20 repositories, 21 stars earned, 170 contributions, 10 followers" src="assets/stats-light.svg?v=9cb9d7d8">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=0979bfe5">
+  <img alt="At a glance: 20 repositories, 21 stars earned, 170 contributions, 10 followers" src="assets/stats-light.svg?v=0979bfe5">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=9cb9d7d8">
-  <img alt="Most used languages across my public repositories" src="assets/languages-light.svg?v=9cb9d7d8">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=0979bfe5">
+  <img alt="Most used languages across my public repositories" src="assets/languages-light.svg?v=0979bfe5">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg?v=9cb9d7d8">
-  <img alt="Contribution graph: 170 contributions in the last year" src="assets/contributions-light.svg?v=9cb9d7d8">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg?v=0979bfe5">
+  <img alt="Contribution graph: 170 contributions in the last year" src="assets/contributions-light.svg?v=0979bfe5">
 </picture>
 <!-- GENERATED:END -->
 
@@ -48,4 +48,4 @@ Right now I mostly work with **Svelte, Tailwind, Bun, Go and Docker**, and I kee
 
 ---
 
-<sub>The cards above are generated from my own Bun scripts in [`scripts/`](scripts) and refreshed by a GitHub Action. No third-party services involved — see [`brand/`](brand) for the mbx.sh logo they use.</sub>
+<sub>The cards above are generated from my own Bun scripts in [`scripts/`](scripts) and refreshed by a GitHub Action. No third-party services involved. The mbx.sh mark they use lives in a private brand repo.</sub>

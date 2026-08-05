@@ -2,7 +2,7 @@
  * The mbx.sh signet, ready to drop into a card.
  *
  * Geometry lives on a 32 unit grid with every edge on an even coordinate, so the
- * mark also rasterises cleanly at 16 pixels. See brand/mbx-mark.svg.
+ * mark also rasterises cleanly at 16 pixels. Canonical SVG: mbx-brand/mbx-mark.svg.
  */
 
 import { n } from "./svg";
