@@ -1,0 +1,5 @@
+node_modules/
+
+# Generated locally for visual checks, never committed
+brand/preview*.html
+preview.html
