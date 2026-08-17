@@ -1,21 +1,21 @@
 <!-- GENERATED:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=e69d840c">
-  <img alt="Marcel Beggiato — full stack developer, self-hoster, Germany" src="assets/header-light.svg?v=e69d840c">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=8145aed7">
+  <img alt="Marcel Beggiato — full stack developer, self-hoster, Germany" src="assets/header-light.svg?v=8145aed7">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=e69d840c">
-  <img alt="At a glance: 20 repositories, 21 stars earned, 166 contributions, 10 followers" src="assets/stats-light.svg?v=e69d840c">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=8145aed7">
+  <img alt="At a glance: 20 repositories, 22 stars earned, 166 contributions, 10 followers" src="assets/stats-light.svg?v=8145aed7">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=e69d840c">
-  <img alt="Most used languages across my public repositories" src="assets/languages-light.svg?v=e69d840c">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=8145aed7">
+  <img alt="Most used languages across my public repositories" src="assets/languages-light.svg?v=8145aed7">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg?v=e69d840c">
-  <img alt="Contribution graph: 166 contributions in the last year" src="assets/contributions-light.svg?v=e69d840c">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg?v=8145aed7">
+  <img alt="Contribution graph: 166 contributions in the last year" src="assets/contributions-light.svg?v=8145aed7">
 </picture>
 <!-- GENERATED:END -->
 
@@ -31,7 +31,7 @@ Right now I mostly work with **Svelte, Tailwind, Bun, Go and Docker**, and I kee
 ## Things I've built
 
 <!-- PROJECTS:START -->
-- **[spotify-player-themes](https://github.com/MBeggiato/spotify-player-themes)** · 36 themes for spotify_player · 11 ★
+- **[spotify-player-themes](https://github.com/MBeggiato/spotify-player-themes)** · 36 themes for spotify_player · 12 ★
 - **[Flow.Launcher.Plugin.RDP](https://github.com/MBeggiato/Flow.Launcher.Plugin.RDP)** · RDP plugin for flow-launcher · 6 ★
 - **[donut-file](https://github.com/MBeggiato/donut-file)** · Work with files found in The Simpsons: Tapped Out · 2 ★
 - **[reborn-town-downloader](https://github.com/MBeggiato/reborn-town-downloader)** · Frontend repo for downloading you Simpsons: Tapped Out town · 1 ★
