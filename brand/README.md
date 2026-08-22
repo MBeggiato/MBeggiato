@@ -10,5 +10,5 @@ outlines change upstream, copy the new file here:
 cp ../mbx-brand/glyphs.json brand/glyphs.json
 ```
 
-Mark geometry for the header card lives inline in `scripts/mark.ts` (mascot)
-and must stay in sync with `mbx-mascot.svg` in mbx-brand.
+Mark geometry for the header card lives inline in `scripts/mark.ts` and must
+stay in sync with `mbx-mark.svg` in mbx-brand.
