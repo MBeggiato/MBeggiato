@@ -35,7 +35,7 @@ export function renderHeader(theme: Theme): string {
   const brandX = HEADER_WIDTH - PAD - brandBold - brandLight;
   const brandBaseline = HEADER_HEIGHT / 2 + (WORDMARK_SIZE * X_HEIGHT_RATIO) / 2;
 
-  // The prompt glyph echoes the signet and anchors the typed line.
+  // The prompt glyph echoes the mascot and anchors the typed line.
   const promptWidth = measureText("> ", { size: taglineSize, weight: "bold" });
   const typedX = TEXT_X + promptWidth;
 
@@ -76,7 +76,7 @@ ${fadeUpKeyframes()}
              caretBlink 1.06s steps(1) ${blinkStart.toFixed(2)}s infinite;
 }`;
 
-  const body = `${renderMark({ x: PAD, y: (HEADER_HEIGHT - MARK_SIZE) / 2, size: MARK_SIZE, fill: theme.fg, id: "header-mark", delay: 0.1 })}
+  const body = `${renderMark({ x: PAD, y: (HEADER_HEIGHT - MARK_SIZE) / 2, size: MARK_SIZE, fill: theme.fg, faint: theme.faint, id: "header-mark", delay: 0.1 })}
 ${renderText(NAME, TEXT_X, nameBaseline, { size: nameSize, weight: "bold", fill: theme.fg, tracking: -0.015, className: "name" })}
 ${renderText("> ", TEXT_X, taglineBaseline, { size: taglineSize, weight: "bold", fill: theme.fg, className: "prompt" })}
 ${typed.markup}
