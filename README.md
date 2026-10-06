@@ -1,21 +1,21 @@
 <!-- GENERATED:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=a58059d4">
-  <img alt="Marcel Beggiato — full stack developer, self-hoster, Germany" src="assets/header-light.svg?v=a58059d4">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=742dce65">
+  <img alt="Marcel Beggiato — full stack developer, self-hoster, Germany" src="assets/header-light.svg?v=742dce65">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=a58059d4">
-  <img alt="At a glance: 21 repositories, 23 stars earned, 240 contributions, 11 followers" src="assets/stats-light.svg?v=a58059d4">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=742dce65">
+  <img alt="At a glance: 21 repositories, 23 stars earned, 250 contributions, 11 followers" src="assets/stats-light.svg?v=742dce65">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=a58059d4">
-  <img alt="Most used languages across my public repositories" src="assets/languages-light.svg?v=a58059d4">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=742dce65">
+  <img alt="Most used languages across my public repositories" src="assets/languages-light.svg?v=742dce65">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg?v=a58059d4">
-  <img alt="Contribution graph: 240 contributions in the last year" src="assets/contributions-light.svg?v=a58059d4">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg?v=742dce65">
+  <img alt="Contribution graph: 250 contributions in the last year" src="assets/contributions-light.svg?v=742dce65">
 </picture>
 <!-- GENERATED:END -->
 
