@@ -1,21 +1,21 @@
 <!-- GENERATED:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=1d7f1fa9">
-  <img alt="Marcel Beggiato — full stack developer, self-hoster, Germany" src="assets/header-light.svg?v=1d7f1fa9">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=9556d858">
+  <img alt="Marcel Beggiato — full stack developer, self-hoster, Germany" src="assets/header-light.svg?v=9556d858">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=1d7f1fa9">
-  <img alt="At a glance: 25 repositories, 23 stars earned, 305 contributions, 11 followers" src="assets/stats-light.svg?v=1d7f1fa9">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=9556d858">
+  <img alt="At a glance: 25 repositories, 24 stars earned, 305 contributions, 11 followers" src="assets/stats-light.svg?v=9556d858">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=1d7f1fa9">
-  <img alt="Most used languages across my public repositories" src="assets/languages-light.svg?v=1d7f1fa9">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=9556d858">
+  <img alt="Most used languages across my public repositories" src="assets/languages-light.svg?v=9556d858">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg?v=1d7f1fa9">
-  <img alt="Contribution graph: 305 contributions in the last year" src="assets/contributions-light.svg?v=1d7f1fa9">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg?v=9556d858">
+  <img alt="Contribution graph: 305 contributions in the last year" src="assets/contributions-light.svg?v=9556d858">
 </picture>
 <!-- GENERATED:END -->
 
@@ -34,8 +34,8 @@ Right now I mostly work with **Svelte, Tailwind, Bun, Go and Docker**, and I kee
 - **[spotify-player-themes](https://github.com/MBeggiato/spotify-player-themes)** · 36 themes and interactive editor for spotify_player · 13 ★
 - **[Flow.Launcher.Plugin.RDP](https://github.com/MBeggiato/Flow.Launcher.Plugin.RDP)** · RDP plugin for flow-launcher · 6 ★
 - **[donut-file](https://github.com/MBeggiato/donut-file)** · Work with files found in The Simpsons: Tapped Out · 2 ★
+- **[fenster](https://github.com/MBeggiato/fenster)** · Fenster: a calm, self-hosted to-do app with a liquid-glass UI, a mobile-first layout and a Pomodoro timer. Soft fork of Vikunja (AGPL-3.0). · 1 ★
 - **[reborn-town-downloader](https://github.com/MBeggiato/reborn-town-downloader)** · Frontend repo for downloading you Simpsons: Tapped Out town · 1 ★
-- **[NetAppTools](https://github.com/MBeggiato/NetAppTools)** · Browser Addon for quickly accesing NetApp serialnumbers and their details · 1 ★
 <!-- PROJECTS:END -->
 
 ## Elsewhere
